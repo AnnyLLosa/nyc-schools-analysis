@@ -23,6 +23,7 @@ Look closely at how data is filtered.
 The takeaway: Always verify your logic before jumping to conclusions!
 
 💭 Final Thoughts:
-Staten Island stands out: With less than 7% of incidents, I’m curious if this is due to lower population density, fewer schools, or simply different reporting habits.
-The "Good" News: Seeing that "non-criminal" incidents are the most common is actually a relief. it suggests that many safety issues are likely related to school discipline or administrative matters rather than serious crime.
-Curiosity for Day 2: This analysis leaves me wondering about reporting consistency. Are all districts following the same rules, or are some more "strict" with their documentation than others?
+- Staten Island stands out: With less than 7% of incidents, I’m curious if this is due to lower population density, fewer schools, or simply different reporting habits.
+- The "Good" News: Seeing that "non-criminal" incidents are the most common is actually a relief. it suggests that many safety issues are likely related to school discipline or administrative matters rather than serious crime.
+- Curiosity for Day 2: This analysis leaves me wondering about reporting consistency. Are all districts found?
+Their documentation than others?
