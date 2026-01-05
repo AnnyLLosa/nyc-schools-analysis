@@ -1,0 +1,27 @@
+📊 Day 1: School Safety Analysis
+
+📎 Google Sheet: (https://docs.google.com/spreadsheets/d/1cS1sb17XYYDrPO4wUn4jbH8t2VLE87uQMK-aXsoTXjQ/edit?gid=1904965556#gid=1904965556)
+
+✅ Key Findings: Dataset Size: 6,312 records analyzed.
+   School Count: 1,891 unique schools represented. 
+   Primary Incident Type: Most reports fall under "Non-criminal" incidents. 
+   The Bronx Snapshot: Accounted for 28.24% of incidents (calculated by district). 
+   Total Volume: A total of 28,151 incidents were recorded overall.
+
+🔍 Interesting Observations: 🗺️ The Geography is Eye-Opening It’s striking that Brooklyn and the Bronx together account for over 58% of all incidents, 
+   even though they don't necessarily have the highest number of schools. 
+   This really makes me wonder about the "why" behind the numbers—is it a lack of resources, school funding disparities, 
+   or broader social challenges in these neighborhoods?
+
+🏫 The Bronx Context While Brooklyn has the highest raw total, the Bronx actually has the highest incident rate per school (31% when normalized). 
+   This suggests that schools in the Bronx might be dealing with more frequent or intense safety hurdles relative to their size and quantity.
+
+📈 A Lesson in Data Consistency I noticed two different percentages for the Bronx in different parts of my analysis (20.24% vs 28.24%).
+   This was a great reminder to: Double-check my formulas (total incidents vs. incidents per school). Look closely at how data is filtered. 
+   The takeaway: Always verify your logic before jumping to conclusions!
+
+💭 Final Thoughts: Staten Island stands out: With less than 7% of incidents, I’m curious if this is due to lower population density, fewer schools, 
+   or simply different reporting habits. The "Good" News: Seeing that "non-criminal" incidents are the most common is actually a relief. It suggests that 
+   many safety issues are likely related to school discipline or administrative matters rather than serious crime. 
+   Curiosity for Day 2: This analysis leaves me wondering about reporting consistency. 
+   Are all districts following the same rules, or are some more "strict" with their documentation than others?
