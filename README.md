@@ -2,8 +2,12 @@
 
 
 
+
+
 📝 Project Overview
 This project presents an in-depth, multidimensional analysis of the New York City public school system. Through a five-stage workflow, I transformed raw datasets into a structured information ecosystem using Python-driven ETL pipelines, Statistical Analysis, and SQL Querying. The goal was to uncover critical insights into school safety, infrastructure density, and academic equity to support data-driven strategic recommendations.
+
+
 
 
 
@@ -26,6 +30,8 @@ Files: incident_analysis.ipynb, incident_analysis_clean.py, safety_insights_repo
 
 
 
+
+
 🐍 School Directory Exploration (Python Basics)
 Explored demographics and enrollment trends, highlighting the stark contrast in school density across boroughs.
 
@@ -37,6 +43,8 @@ Academic Access: Brooklyn holds the highest number of schools (121), and 100% of
 
 
 Files: school_exploration.ipynb, demographic_analysis.py, and demographic maps.
+
+
 
 
 
@@ -55,6 +63,8 @@ Files: database_queries.ipynb, insightful_queries.sql, query_analysis.md.
 
 
 
+
+
 ⚙️ ETL & Integration
 Developed a resilient ETL pipeline to clean and load SAT results into a relational database.
 
@@ -69,11 +79,15 @@ Files: clean_sat_data.py, cleaned_sat_results.csv (containing 478 unique records
 
 
 
+
+
 🚀 Project Wrapping & Publishing
 Finalized the repository structure to reflect professional functionality, ensuring the DBN code serves as a strict Primary Key for relational integrity.
 
 
 Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and ipykernel), root README.md, and project assets/.
+
+
 
 
 
