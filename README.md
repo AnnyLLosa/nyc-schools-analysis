@@ -92,7 +92,7 @@ Files: clean_sat_data.py, cleaned_sat_results.csv (containing 478 unique records
 Finalized the repository structure to reflect professional functionality, ensuring the DBN code serves as a strict Primary Key for relational integrity.
 
 
-Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and ipykernel), root README.md, and project assets/.
+Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and ipykernel), root README.md, and project assets/presentation_schools_pipeline.pdf (It contains your technical presentation and the architecture diagram).
 
 
 
