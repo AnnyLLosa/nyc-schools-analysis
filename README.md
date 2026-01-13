@@ -81,7 +81,7 @@ Files: clean_sat_data.py, cleaned_sat_results.csv (containing 478 unique records
 
 
 📚 Project Resources
- - 📄 [Download Full Presentation (PDF)](Presentación%20-%20Schools%20Pipeline.pdf)
+ - 📄 Dowloand Presentation (https://github.com/user-attachments/files/24600183/Presentacion.-.Schools.Pipeline.pdf)
  - 📊 [View Architecture Diagram](assets/tu_imagen_de_canva.png)
 
 
