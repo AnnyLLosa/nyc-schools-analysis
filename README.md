@@ -19,7 +19,7 @@ The Bronx Context: While Brooklyn has the highest raw total, the Bronx has the h
 
 Files: incident_analysis.ipynb, incident_analysis_clean.py, safety_insights_report.md.
 
-🐍 Day 2: School Directory Exploration (Python Basics)
+🐍 School Directory Exploration (Python Basics)
 Explored demographics and enrollment trends, highlighting the stark contrast in school density across boroughs.
 
 
@@ -32,7 +32,7 @@ Academic Access: Brooklyn holds the highest number of schools (121), and 100% of
 Files: school_exploration.ipynb, demographic_analysis.py, and demographic maps.
 
 
-🐘 Day 3: Database Queries (PostgreSQL Practice)
+🐘 Database Queries (PostgreSQL Practice)
 Utilized SQL logic via Python to identify specialized resource hubs and bilingual program needs.
 
 
@@ -44,7 +44,7 @@ Inclusive Leadership: Manhattan shows strong leadership in inclusive education, 
 
 Files: database_queries.ipynb, insightful_queries.sql, query_analysis.md.
 
-⚙️ Day 4: ETL & Integration
+⚙️ ETL & Integration
 Developed a resilient ETL pipeline to clean and load SAT results into a relational database.
 
 
