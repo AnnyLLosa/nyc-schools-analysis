@@ -1,45 +1,75 @@
-🍎 NYC Schools Data Analysis: Comprehensive Portfolio
+🍎 NYC Schools Data Analysis: Strategic Portfolio
 
-📂 Detailed Structure
-1. incident_analysis/
-Analysis of school safety incidents across NYC public schools, focusing on trends, safety ratings, and spatial patterns.
-- Key Insight: Most reports fall under "Non-criminal" incidents, suggesting safety issues are often administrative or disciplinary rather than serious crimes.
-- Files: incident_analysis.ipynb, incident_analysis_clean.py, safety_insights_report.md.
+📝 Project Overview
+This project presents an in-depth, multidimensional analysis of the New York City public school system. Through a five-stage workflow, I transformed raw datasets into a structured information ecosystem using Python-driven ETL pipelines, Statistical Analysis, and SQL Querying. The goal was to uncover critical insights into school safety, infrastructure density, and academic equity to support data-driven strategic recommendations.
 
-2. school_directory_exploration/
-Comprehensive exploration of NYC school directory data, including demographics, enrollment trends, and borough characteristics.
-- Key Insight: Brooklyn holds the highest number of schools (121), while Staten Island faces the highest student density pressure per building.
-- Files: school_exploration.ipynb, demographic_analysis.py, visuals/.
+📂 Detailed Structure by Focus Area
+🛠️ School Safety Analysis (Git & GitHub Fundamentals)
+Analyzed safety trends across 1,891 unique schools using a dataset of 6,312 records and over 28,000 recorded incidents.
++2
 
-3. database_queries/
-SQL-based analysis focusing on academic performance correlations and demographic patterns using Python for complex queries.
-- Key Insight: Manhattan stands out for inclusive education, with resource hubs like East Side Community School serving up to 28.8% Special Education (SPED) students.
-- Files: database_queries.ipynb, insightful_queries.sql, query_analysis.md.
 
-4. database_population/
-An automated ETL pipeline for cleaning and loading SAT results data into a relational PostgreSQL database.
-- Key Insight: Implemented "self-healing" path logic using the glob library to ensure pipeline stability if file locations change.
-- Files: clean_sat_data.py, cleaned_sat_results.csv, sat_schema.sql.
+Key Insight: Most reports fall under "Non-criminal" incidents, suggesting many safety issues are administrative or disciplinary rather than serious crimes.
++1
 
-📊 Key Findings & Strategic Observations
-School Safety & Geography: 
-- Brooklyn and the Bronx together account for over 58% of all recorded incidents. While Brooklyn has the most incidents, 
-  the Bronx has the highest incident rate per school at 31% when normalized.
-- Infrastructure Pressure: Staten Island operates at the highest density with an average of 1,847 students per school, 
-  compared to only 490 students per school in the Bronx.
-- Access Equity: 
-  Brooklyn offers robust access, with 100% of its 121 high schools providing entry points for the 9th grade.
-- Data Integrity: 
-  The ETL pipeline successfully validated 478 unique records, correcting typos like "Readng" and neutralizing academic outliers 
-  (scores outside the 200-800 range) to ensure high-quality reporting.
 
-🛠️ Technical Stack
-- Data Processing: Python 3.8+ (Pandas, NumPy), Jupyter Notebooks, SQLAlchemy.
-- Database Management: PostgreSQL, focusing on relational standards and DBN code as a strict Primary Key.
-- Visualization: Matplotlib, Seaborn for statistical plotting.
-- Automation: glob library for dynamic file extraction and logging for transparent audit trails.
+Geographic Trends: Brooklyn and the Bronx together account for over 58% of all incidents.
+
+
+The Bronx Context: While Brooklyn has the highest raw total, the Bronx has the highest incident rate per school at 31% when normalized.
+
+
+Files: incident_analysis.ipynb, incident_analysis_clean.py, safety_insights_report.md.
++1
+
+🐍 Day 2: School Directory Exploration (Python Basics)
+Explored demographics and enrollment trends, highlighting the stark contrast in school density across boroughs.
+
+
+Infrastructure Pressure: Staten Island faces the highest student density with an average of 1,847 students per school, while the Bronx has the lowest average at 490 students.
+
+
+Academic Access: Brooklyn holds the highest number of schools (121), and 100% of these schools provide critical access to 9th grade.
+
+
+Files: school_exploration.ipynb, demographic_analysis.py, and demographic maps.
++1
+
+🐘 Day 3: Database Queries (PostgreSQL Practice)
+Utilized SQL logic via Python to identify specialized resource hubs and bilingual program needs.
+
+
+Manhattan Snapshot: Verified records via INNER JOIN show a 7.57% average for English Language Learners (ELL) in Manhattan.
+
+
+Inclusive Leadership: Manhattan shows strong leadership in inclusive education, with schools like East Side Community School serving Special Education (SPED) populations of up to 28.8%.
+
+
+Files: database_queries.ipynb, insightful_queries.sql, query_analysis.md.
++1
+
+⚙️ Day 4: ETL & Integration
+Developed a resilient ETL pipeline to clean and load SAT results into a relational database.
+
+
+Resilient Strategy: Implemented "Self-Healing Paths" using the glob library to automatically locate datasets even if primary folder structures change.
+
+
+Data Integrity: Successfully corrected misspelled headers (e.g., "Readng") and neutralized academic outliers outside the valid 200–800 SAT range.
+
+
+Files: clean_sat_data.py, cleaned_sat_results.csv (containing 478 unique records), and sat_schema.sql.
+
+🚀 Day 5: Project Wrapping & Publishing
+Finalized the repository structure to reflect professional functionality, ensuring the DBN code serves as a strict Primary Key for relational integrity.
+
+
+Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and ipykernel), root README.md, and project assets/.
++1
 
 📈 Strategic Recommendations
-1. Targeted Expansion: Prioritize infrastructure investment in Staten Island and Queens to alleviate extreme student density per building.
 
-2. Density-Based Budgeting: Shift resource allocation from a "per-school" model to a "density-adjusted" model to support boroughs with higher student loads.
+1. Targeted Expansion: Prioritize infrastructure investment in Staten Island and Queens, as they handle significantly more students per building than other boroughs.
+
+
+2. Density-Based Budgeting: Shift resource allocation to "density-adjusted" funding for boroughs like Staten Island where student loads are nearly triple those of the Bronx.
