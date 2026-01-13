@@ -1,9 +1,14 @@
 🍎 NYC Schools Data Analysis: Strategic Portfolio
 
+
+
 📝 Project Overview
 This project presents an in-depth, multidimensional analysis of the New York City public school system. Through a five-stage workflow, I transformed raw datasets into a structured information ecosystem using Python-driven ETL pipelines, Statistical Analysis, and SQL Querying. The goal was to uncover critical insights into school safety, infrastructure density, and academic equity to support data-driven strategic recommendations.
 
+
+
 📂 Detailed Structure by Focus Area
+
 🛠️ School Safety Analysis (Git & GitHub Fundamentals)
 Analyzed safety trends across 1,891 unique schools using a dataset of 6,312 records and over 28,000 recorded incidents.
 
@@ -19,6 +24,8 @@ The Bronx Context: While Brooklyn has the highest raw total, the Bronx has the h
 
 Files: incident_analysis.ipynb, incident_analysis_clean.py, safety_insights_report.md.
 
+
+
 🐍 School Directory Exploration (Python Basics)
 Explored demographics and enrollment trends, highlighting the stark contrast in school density across boroughs.
 
@@ -30,6 +37,8 @@ Academic Access: Brooklyn holds the highest number of schools (121), and 100% of
 
 
 Files: school_exploration.ipynb, demographic_analysis.py, and demographic maps.
+
+
 
 
 🐘 Database Queries (PostgreSQL Practice)
@@ -44,6 +53,8 @@ Inclusive Leadership: Manhattan shows strong leadership in inclusive education, 
 
 Files: database_queries.ipynb, insightful_queries.sql, query_analysis.md.
 
+
+
 ⚙️ ETL & Integration
 Developed a resilient ETL pipeline to clean and load SAT results into a relational database.
 
@@ -56,11 +67,15 @@ Data Integrity: Successfully corrected misspelled headers (e.g., "Readng") and n
 
 Files: clean_sat_data.py, cleaned_sat_results.csv (containing 478 unique records), and sat_schema.sql.
 
+
+
 🚀 Project Wrapping & Publishing
 Finalized the repository structure to reflect professional functionality, ensuring the DBN code serves as a strict Primary Key for relational integrity.
 
 
 Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and ipykernel), root README.md, and project assets/.
+
+
 
 📈 Strategic Recommendations
 
