@@ -80,19 +80,24 @@ Files: clean_sat_data.py, cleaned_sat_results.csv (containing 478 unique records
 
 
 
-📚 Project Resources
- - 📄 Dowloand Presentation (https://github.com/user-attachments/files/24600183/Presentacion.-.Schools.Pipeline.pdf)
- - 📊 [View Architecture Diagram](assets/tu_imagen_de_canva.png)
-
-
-
-
 
 🚀 Project Wrapping & Publishing
 Finalized the repository structure to reflect professional functionality, ensuring the DBN code serves as a strict Primary Key for relational integrity.
 
 
 Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and ipykernel), root README.md, and project assets/presentation_schools_pipeline.pdf (It contains your technical presentation and the architecture diagram).
+
+
+
+
+
+
+📚 Project Resources
+ - 📄 Dowloand Presentation (https://github.com/user-attachments/files/24600183/Presentacion.-.Schools.Pipeline.pdf)
+   
+ - 📊 View Architecture Diagram https://www.canva.com/design/DAG-Vboq9Ts/eP688Mj1DHLdSBajNEfuTw/view?utm_content=DAG- Vboq9Ts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heba6d41462
+   
+ - Canvas Project link (https://www.canva.com/design/DAG-UtyAwus/5M3C7LXb2M4rU1Nf3V-dog/view?utm_content=DAG-UtyAwus&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h002838b284
 
 
 
