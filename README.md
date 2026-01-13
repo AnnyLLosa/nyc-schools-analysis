@@ -6,11 +6,9 @@ This project presents an in-depth, multidimensional analysis of the New York Cit
 📂 Detailed Structure by Focus Area
 🛠️ School Safety Analysis (Git & GitHub Fundamentals)
 Analyzed safety trends across 1,891 unique schools using a dataset of 6,312 records and over 28,000 recorded incidents.
-+2
 
 
 Key Insight: Most reports fall under "Non-criminal" incidents, suggesting many safety issues are administrative or disciplinary rather than serious crimes.
-+1
 
 
 Geographic Trends: Brooklyn and the Bronx together account for over 58% of all incidents.
@@ -20,7 +18,6 @@ The Bronx Context: While Brooklyn has the highest raw total, the Bronx has the h
 
 
 Files: incident_analysis.ipynb, incident_analysis_clean.py, safety_insights_report.md.
-+1
 
 🐍 Day 2: School Directory Exploration (Python Basics)
 Explored demographics and enrollment trends, highlighting the stark contrast in school density across boroughs.
@@ -33,7 +30,7 @@ Academic Access: Brooklyn holds the highest number of schools (121), and 100% of
 
 
 Files: school_exploration.ipynb, demographic_analysis.py, and demographic maps.
-+1
+
 
 🐘 Day 3: Database Queries (PostgreSQL Practice)
 Utilized SQL logic via Python to identify specialized resource hubs and bilingual program needs.
@@ -46,7 +43,6 @@ Inclusive Leadership: Manhattan shows strong leadership in inclusive education, 
 
 
 Files: database_queries.ipynb, insightful_queries.sql, query_analysis.md.
-+1
 
 ⚙️ Day 4: ETL & Integration
 Developed a resilient ETL pipeline to clean and load SAT results into a relational database.
@@ -65,7 +61,6 @@ Finalized the repository structure to reflect professional functionality, ensuri
 
 
 Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and ipykernel), root README.md, and project assets/.
-+1
 
 📈 Strategic Recommendations
 
