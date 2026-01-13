@@ -1,4 +1,4 @@
-📊 Day 1: School Safety Analysis
+📊 School Safety Analysis
 
 📎 Google Sheet: (https://docs.google.com/spreadsheets/d/1cS1sb17XYYDrPO4wUn4jbH8t2VLE87uQMK-aXsoTXjQ/edit?gid=1904965556#gid=1904965556)
 
