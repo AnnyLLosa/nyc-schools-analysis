@@ -80,6 +80,13 @@ Files: clean_sat_data.py, cleaned_sat_results.csv (containing 478 unique records
 
 
 
+📚 Project Resources
+ - 📄 [Download Full Presentation (PDF)](Presentación%20-%20Schools%20Pipeline.pdf)
+ - 📊 [View Architecture Diagram](assets/tu_imagen_de_canva.png)
+
+
+
+
 
 🚀 Project Wrapping & Publishing
 Finalized the repository structure to reflect professional functionality, ensuring the DBN code serves as a strict Primary Key for relational integrity.
