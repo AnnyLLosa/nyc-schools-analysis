@@ -1,17 +1,20 @@
-🍎 NYC Schools Data Analysis: Strategic Portfolio
+🍎 Data-Driven NYC: End-to-End ETL & Strategic School Safety Analysis
 
 
 
 
 
-📝 Project Overview
-This project presents an in-depth, multidimensional analysis of the New York City public school system. Through a five-stage workflow, I transformed raw datasets into a structured information ecosystem using Python-driven ETL pipelines, Statistical Analysis, and SQL Querying. The goal was to uncover critical insights into school safety, infrastructure density, and academic equity to support data-driven strategic recommendations.
+## 📝 Project Overview
+
+This project presents an in-depth, multidimensional analysis of the New York City public school system. Through a five-stage workflow, I transformed raw datasets into a structured information ecosystem using Python-driven ETL pipelines, Statistical Analysis, and SQL Querying.
+
+The goal was to uncover critical insights into school safety, infrastructure density, and academic equity to support data-driven strategic recommendations.
 
 
 
 
 
-📂 Detailed Structure by Focus Area
+## 📂 Project Architecture & Insights
 
 🛠️ School Safety Analysis (Git & GitHub Fundamentals)
 Analyzed safety trends across 1,891 unique schools using a dataset of 6,312 records and over 28,000 recorded incidents.
@@ -32,7 +35,7 @@ Files: incident_analysis.ipynb, incident_analysis_clean.py, safety_insights_repo
 
 
 
-🐍 School Directory Exploration (Python Basics)
+## 🐍 School Directory Exploration (Python Basics)
 Explored demographics and enrollment trends, highlighting the stark contrast in school density across boroughs.
 
 
@@ -49,7 +52,7 @@ Files: school_exploration.ipynb, demographic_analysis.py, and demographic maps.
 
 
 
-🐘 Database Queries (PostgreSQL Practice)
+## 🐘 Database Queries (PostgreSQL)
 Utilized SQL logic via Python to identify specialized resource hubs and bilingual program needs.
 
 
@@ -65,11 +68,11 @@ Files: database_queries.ipynb, insightful_queries.sql, query_analysis.md.
 
 
 
-⚙️ ETL & Integration
+## ⚙️ ETL & Integration
 Developed a resilient ETL pipeline to clean and load SAT results into a relational database.
 
 
-Resilient Strategy: Implemented "Self-Healing Paths" using the glob library to automatically locate datasets even if primary folder structures change.
+Resilient Strategy: Implemented ## "Self-Healing Paths" using the glob library to automatically locate datasets even if primary folder structures change.
 
 
 Data Integrity: Successfully corrected misspelled headers (e.g., "Readng") and neutralized academic outliers outside the valid 200–800 SAT range.
@@ -81,7 +84,7 @@ Files: clean_sat_data.py, cleaned_sat_results.csv (containing 478 unique records
 
 
 
-🚀 Project Wrapping & Publishing
+## 🚀 Project Wrapping & Publishing
 Finalized the repository structure to reflect professional functionality, ensuring the DBN code serves as a strict Primary Key for relational integrity.
 
 
@@ -92,7 +95,8 @@ Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and 
 
 
 
-📚 Project Resources
+
+## 📚 Project Resources
  - 📄 Dowloand Presentation (https://github.com/user-attachments/files/24600183/Presentacion.-.Schools.Pipeline.pdf)
    
  - 📊 View Architecture Diagram https://www.canva.com/design/DAG-Vboq9Ts/eP688Mj1DHLdSBajNEfuTw/view?utm_content=DAG- Vboq9Ts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heba6d41462
@@ -100,10 +104,11 @@ Files: requirements.txt (including pandas, matplotlib, seaborn, sqlalchemy, and 
  - Canvas Project link (https://www.canva.com/design/DAG-UtyAwus/5M3C7LXb2M4rU1Nf3V-dog/view?utm_content=DAG-UtyAwus&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h002838b284
 
 
+   Tech Stack: Python (Pandas, Matplotlib, Seaborn, SQLAlchemy), PostgreSQL, Git/GitHub.
 
 
 
-📈 Strategic Recommendations
+## 📈 Strategic Recommendations
 
 1. Targeted Expansion: Prioritize infrastructure investment in Staten Island and Queens, as they handle significantly more students per building than other boroughs.
 
